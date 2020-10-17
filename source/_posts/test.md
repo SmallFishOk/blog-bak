@@ -1,6 +1,11 @@
 ---
 title: 这是测试的
-date: 2020-01-01 20:00:00
+date: 2013/7/13 20:46:25
+categories:
+- Diary
+tags:
+- PS3
+- Games
 ---
 
 这是测试内容
