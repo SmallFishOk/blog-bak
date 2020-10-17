@@ -1,6 +1,6 @@
 ---
 title: 这是测试的
-date: 2013/7/13 20:46:25
+#date: 2013/7/13 20:46:25
 categories:
 - Diary
 tags:
